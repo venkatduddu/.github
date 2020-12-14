@@ -1,0 +1,8 @@
+{
+    "name": "Chegg Java Workflow",
+    "description": "Chegg CI workflow template.",
+    "iconName": "chegg",
+    "categories": [
+        "Java"
+    ]
+}
